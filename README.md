@@ -8,3 +8,5 @@ Modules used:
 Commands to download modules:
   - pip install opencv-python
   - pip install numpy
+
+For more details please refer Instagram page: https://www.instagram.com/hack_smashes/
